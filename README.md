@@ -21,6 +21,9 @@ As you can see in the Actions tab, a test is failing.
 Your task is to make it pass. Adapt the code to pass the test and commit your changes in this repo.
 
 Read the tests to know what is expected of the system in the 'happy' scenario as well as 'error' scenarios (when the sensor failed to sense).
-Such tests make data-assumptions explicit and smoothen the flow of downstream MLops. You are welcome to add more tests to flesh out more assumptions.
 
-Enjoy :)
+## Evaluation criteria
+
+- Passing tests
+- Naming of variables and files 
+- Tests that express intent (think of a battery-temperature-sensor)
